@@ -19,6 +19,6 @@
 <li>Fazer uso de PropTypes para validar as props de um componente.</li>
 </ol>
 
-<p>Link para conferência: https://JuliaSFarias.github.io/solar-system-projeto10/</p>
+<p>Link para conferência: https://JuliaSFarias.github.io/solar-system-projeto9/</p>
 
 <p><a href="https://www.linkedin.com/in/julia-farias1995/" targe="_blank" rel="nofollow">Meu Linkedin</a>.</p>
