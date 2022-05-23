@@ -1,0 +1,124 @@
+.App {
+  text-align: center;
+}
+
+/* Referência de CSS:
+https://www.figma.com/file/vcire16CytAa1QWrriuunm/Sistema-Solar?node-id=0%3A1
+https://guilhermemuller.com.br/ead/html-css-na-pratica/margens-bordas-box-model  */
+
+body {
+  background-image: url('./images/background.png');
+}
+
+.header {
+  color: white;
+  font-family: Epilogue , sans-serif;
+  font-size: 60px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 150%;
+  text-align: center;
+
+}
+
+.title-box {
+  background: rgba(24, 26, 37, 0.5);
+  border: 7px solid white;
+  border-radius: 20px;
+  margin-left: 300px;
+  margin-right: 300px;
+  mix-blend-mode: hard-light;
+}
+
+.title-text {
+  color: white;
+  font-family: Epilogue , sans-serif;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 0%;
+  text-align: center;
+}
+
+.mission-card-style {
+  background: rgba(24, 26, 37, 0.5);
+  border: 7px solid white;
+  border-radius: 17px;
+  box-sizing: border-box;
+  color: white;
+  display: inline-block;
+  font-family: Epilogue , sans-serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 0;
+  height: 261px;
+  line-height: 120%;
+  margin: 25px;
+  mix-blend-mode: hard-light;
+  padding-left: 50px;
+  padding-right: 50px;
+  width: 460px;
+
+}
+
+.mission-cards {
+  text-align: center;
+}
+
+.planet-cards {
+  text-align: center;
+}
+
+.planet-card-style {
+  color: white;
+  display: inline-block;
+  font-family: Epilogue , sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 0;
+  line-height: 150%;
+  margin: 10px;
+  margin-bottom: 100px;
+  margin-top: 80px;
+}
+
+.Mercúrio {
+  width: 60px;
+}
+
+.Vênus {
+  width: 160px;
+}
+
+.Terra {
+  width: 180px;
+}
+
+.Marte {
+  width: 110px;
+}
+
+.Júpiter {
+  width: 350px;
+}
+
+.Saturno {
+  width: 350px;
+}
+
+.Urano {
+  width: 200px;
+}
+
+.Netuno {
+  width: 200px;
+}
+
+.mission-name {
+  border-bottom: 1px solid white;
+  font-size: 30px;
+  font-weight: 250;
+  padding-bottom: 10px;
+  padding-left: 0;
+  text-align: center;
+}
